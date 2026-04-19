@@ -14,10 +14,10 @@ This release package is prepared for open-source publishing and includes only es
 
 The following files were renamed from intermediate experiment names:
 
-- `models/transxnet_mca.py` (old: `transxnetg.py`)
-- `models/transxnet_mca_mudd.py` (old: `transxnetgg.py`)
-- `models/transxnet_dmc.py` (old: `transxnetggg.py`)
-
+- `models/transxnet_mca.py` 
+- `models/transxnet_mca_mudd.py` 
+- `models/transxnet_dmc.py`
+  
 ## Repository structure
 
 ```text
