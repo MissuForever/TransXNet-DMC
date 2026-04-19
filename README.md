@@ -98,12 +98,3 @@ You can override Python executable when using `run.sh`:
 ```bash
 PYTHON_BIN=python3 bash run.sh
 ```
-
-## Notes for open-source release
-
-- This package intentionally excludes:
-  - datasets
-  - checkpoints (`*.pth`)
-  - logs and figures generated during experiments
-  - local IDE and virtual environment folders
-- Please add your preferred license file before publishing.
